@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://github.com/sahalakma/qr-code-component)
+- Solution URL: [https://github.com/sahalakma/qr-code-component](https://github.com/sahalakma/qr-code-component)
 - Live Site URL: [](https://sahalakma.github.io/qr-code-component/)
 
 ## My process
